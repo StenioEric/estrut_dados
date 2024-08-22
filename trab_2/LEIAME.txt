@@ -1,0 +1,24 @@
+
+
+Vamos para os passos.
+
+1-Ir ao diretório em que a pasta "fontes" encontra-se pelo terminal;
+
+2-Compilar o código desejado com:
+Exemplo>gcc -c -Wall AverageByTreeAVL.c
+
+3-Gerar o executável do respectivo código:
+Exemplo>gcc -o ByTreeAVL AverageByTreeAVL.o
+
+## O código já gera automaticamente o .txt
+
+4-Abrir o gnuplot no terminal (Lembre-se de estar no diretório gráficos):
+Exemplo>gnuplot
+
+5-Para a plotagem do gráfico utilize o seguinte:
+Exemplo>plot "nomedotxt.txt" with lines.
+
+##OBS: Para cada um dos casos de execução já existe um código pronto, então não é necessário modificar nada nos códigos em si, basta executar o desejado e será mostrado seus tempos de execuções.
+
+
+Obrigado.
